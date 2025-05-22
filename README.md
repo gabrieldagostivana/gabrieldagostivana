@@ -1,6 +1,6 @@
 ### OLA me chamo Gabriel Dagostin Viana
 
-- 🔭 I am **ambitious**, an **optimist** and a **realist** who is passionate about building **Resilient Distributed Applications**.
+- 🔭 estou concluindo o curso de desenvolvimento de sistemas
 - 🐱‍💻 **Gopher** | **Software Engineer**`Backend`
 - I write Go code which always get A+ [reportcard](https://github.com/gojp/goreportcard)
 - 🌱 I’m currently learning React & Typescript
@@ -40,9 +40,9 @@
 
 <p id="socialIcons" align="center">
     <a href="mailto:manigandan.jeff@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/manigandan.jeff-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+        <img alt="Gmail" src="https://mail.google.com/mail/u/1/#inbox" /></a>
     <a href="https://linkedin.com/in/manigandand" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-manigandand-blue?style=flat-square&logo=linkedin" /></a>
+        <img src="https://www.linkedin.com/in/gabriel-dagostin-viana-805594366/" /></a>
     <a href="https://stackoverflow.com/users/4201748/manigandand" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-manigandand-FE7A16?style=flat-square&logo=stack-overflow&logoColor=FE7A16&labelColor=white" /></a>
     <a href="https://hub.docker.com/u/manigandanjeff" alt="Dockor">
