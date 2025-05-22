@@ -1,4 +1,6 @@
-### OLA me chamo Gabriel Dagostin Viana
+### Me chamo Gabriel Dagostin Viana
+
+<img src="./images/computer.gif" width="100%"/>
 
 - 🔭 estou concluindo o curso de desenvolvimento de sistemas
 
@@ -12,3 +14,5 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 - 💻
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
