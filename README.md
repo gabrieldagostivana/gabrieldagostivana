@@ -18,4 +18,4 @@
 - 💻
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmElt-Ewm7yr8YsGpQbzGfZ6gEc8DJVaxOww&s" width="100%"/>
+<img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" width="100%"/>
