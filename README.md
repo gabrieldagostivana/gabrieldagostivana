@@ -1,6 +1,6 @@
 ### Me chamo Gabriel Dagostin Viana
 
-<img src="https://i.pinimg.com/originals/1b/83/dc/1b83dce6c2a59c92d2dfdd14df85c377.gif" width="100%"/>
+
 
 - 🔭 estou concluindo o curso de desenvolvimento de sistemas
 
@@ -17,4 +17,4 @@
 - 💻
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmElt-Ewm7yr8YsGpQbzGfZ6gEc8DJVaxOww&s" width="100%"/>
