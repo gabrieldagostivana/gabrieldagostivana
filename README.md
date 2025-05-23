@@ -2,7 +2,8 @@
 
 
 
-- 🔭 estou concluindo o curso de desenvolvimento de sistemas
+- 🔭 estou cursando o curso de desenvolvimento de sistemas
+
 
 ### 🛠links de contato e trabalho
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieldagostivana)
