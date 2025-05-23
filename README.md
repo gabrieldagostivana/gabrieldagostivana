@@ -1,6 +1,6 @@
 ### Me chamo Gabriel Dagostin Viana
 
-<img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/1b/83/dc/1b83dce6c2a59c92d2dfdd14df85c377.gif" width="100%"/>
 
 - 🔭 estou concluindo o curso de desenvolvimento de sistemas
 
